@@ -16,5 +16,5 @@ We picked the McDonald's that is the closest, the map shows the route and inform
 
 Suppose the user wants to eat a Big Mac, KFC Famous Bowls, Whoppers, and a pizza. He/She can use the "Add To List" and click "Optimize the Route" 
 <img width="1363" alt="Screenshot 2025-03-08 at 11 21 05 AM" src="https://github.com/user-attachments/assets/348a52bc-6b00-4630-9bd6-352ef2717dbb" />
-The user decides not to have Whoppers so he/she deletes it from the list. (example for the is satellite view)
+The user decides not to have Whoppers so he/she deletes it from the list. (An example the is satellite view)
 <img width="1391" alt="Screenshot 2025-03-08 at 11 25 11 AM" src="https://github.com/user-attachments/assets/d29cd0f8-f904-41ac-99ea-da3ed4b863ef" />
